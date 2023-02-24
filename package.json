@@ -1,0 +1,14 @@
+{
+  "name": "assignment_2",
+  "version": "1.0.0",
+  "description": "taking input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "manimala Badugu",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
